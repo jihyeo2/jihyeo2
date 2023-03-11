@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>Hi 👋, I'm Julie Oh</h1>
+<h1>Hi, I'm Julie Oh 🐣</h1>
 <h3>I am a CS student @ Georgia Tech.</h3>
 <h3>I love to reverse engineer games and create web applications using Flask, React, or Vue.</h3>
 
