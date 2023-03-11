@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1>Hi 👋, I'm Julie Oh</h1>
 <h3>I am a CS student @ Georgia Tech.</h3>
-<h3>I love to reverse engineer games and creating web applications using Flask, React, or Vue.</h3>
+<h3>I love to reverse engineer games and create web applications using Flask, React, or Vue.</h3>
 
 - 🔭 I’m currently working on: **Aimbot in CSGO & Shooni (web application for student housing)**
 - 🌱 I’m currently learning: **How to write a better readme**
