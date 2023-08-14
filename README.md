@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: **Shooni (web application for student housing) & Aimbot in CSGO**
 - 🌱 I’m currently learning: **How to write a better readme**
-- ⚡ Fun fact: **I usually spend 10 - 30 minutes to come up with cool usernames**
+- ⚡ Fun fact: **I usually ~~waste~~spend 10 - 30 minutes just to come up with cool usernames. For example, 16deathcaitlyn. At least I try.**
 
 
 <h3 align="left">Languages:</h3>
