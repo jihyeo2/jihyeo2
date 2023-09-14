@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3>I am a CS student @ Georgia Tech.</h3>
 <h3>I like to create web applications using Flask, React, or Vue and love reverse engineering games.</h3>
 
-- 🔭 I’m currently working on: **Shooni (web application for student housing) & Aimbot in CSGO**
+- 🔭 I’m currently working on: **Shooni (web application for student housing) & Multihack in CSGO**
 - 🌱 I’m currently learning: **FUZZING!!!!!!!!🤩**
 - ⚡ Fun fact: **I usually ~~waste~~spend 10 - 30 minutes just to come up with cool usernames. For example, 16deathcaitlyn... At least I try.**
 
