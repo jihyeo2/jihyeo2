@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: **Graduation**
 - 🌱 I’m currently learning: **FUZZING!!!!!!!!🤩**
-- ⚡ Fun fact: **I usually ~~waste~~spend 10 - 30 minutes just to come up with cool usernames. For example, 16deathcaitlyn... At least I try.**
+- ⚡ Fun fact: **Am I the only one ~~wasting~~spending 10 - 30 minutes just to come up with usernames? -16deathcaitlyn**
 
 
 <h3 align="left">Languages:</h3>
