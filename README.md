@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1>Hi, I'm Julie Oh 🐣</h1>
-<h3>I am a CS student @ Georgia Tech.</h3>
+<h3>I am a CS graduate from Georgia Tech.</h3>
 <h3>I like to create web applications using Flask, React, or Vue and love reverse engineering games.</h3>
 
 - 🔭 I’m currently working on: **Job Search**
