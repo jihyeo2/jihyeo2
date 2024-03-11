@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3>I am a CS graduate from Georgia Tech.</h3>
 <h3>I like to create web applications using Flask, React, or Vue and love reverse engineering games.</h3>
 
-- 🔭 I’m currently working on: **Job Search**
+- 🔭 I’m currently working on: **Finding what I truly want to do in my life**
 - 🌱 I’m currently learning: **FUZZING!!!!!!!!🤩**
 - ⚡ Fun fact: **Am I the only one ~~wasting~~spending 10 - 30 minutes just to come up with cool usernames? -16deathcaitlyn**
 
