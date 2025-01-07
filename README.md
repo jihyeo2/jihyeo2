@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: **Finding what I truly want to do in my life**
 - 🌱 I’m currently learning: **PURPLE TEAM??!!!!!!!🤩**
-- ⚡ Fun fact: **Am I the only one ~~wasting~~spending 10 - 30 minutes just to come up with cool usernames? -16deathcaitlyn**
+- ⚡ Fun fact: ** 1. At this point, I cannot remember how many times I removed and reinstalled lol (league of legends)...thanks to ~~used to be addicted~~me and my ~~still-addicted~~ friends
+                  2. Teams default notification sound is scaaarrrryyy
+                  past: Am I the only one ~~wasting~~spending 10 - 30 minutes just to come up with cool usernames? -16deathcaitlyn**
 
 
 <h3 align="left">Languages:</h3>
