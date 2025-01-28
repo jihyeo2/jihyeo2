@@ -21,11 +21,14 @@ Here are some ideas to get you started:
 <h3>I like to create web applications using Flask, React, or Vue and love reverse engineering games.</h3>
 
 - 🔭 I’m currently working on: **Finding what I truly want to do in my life**
-- 🌱 I’m currently learning: **PURPLE TEAM??!!!!!!!🤩**
+- 🌱 I’m currently learning: **ECTF :sunglasses:**
 - ⚡ Fun facts:   
-                  1. At this point, I cannot remember how many times I removed and reinstalled lol (league of legends)...thanks to ~~used-to-be-addicted~~me and my ~~still-addicted~~ friends  
+                  1. I started playing league (league of legends) to get an idea of moba games with a goal of reverse-engineering them, but it kinda turned out to be league reverse-engineering my life for 3 years. Hahaha...thankfully, it's no longer ongoing.  
                   2. Teams default notification sound is scaaarrrryyy  
-                  old fun fact: Am I the only one ~~wasting~~spending 10 - 30 minutes just to come up with cool usernames -16deathcaitlyn
+
+    old fun facts:  
+  Am I the only one ~~wasting~~spending 10 - 30 minutes just to come up with cool usernames -16deathcaitlyn  
+                                At this point, I cannot remember how many times I removed and reinstalled league...thanks to ~~used-to-be-addicted~~me and my ~~still-addicted~~ friends  
 
 
 <h3 align="left">Languages:</h3>
