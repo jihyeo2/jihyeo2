@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: **Finding what I truly want to do in my life**
 - 🌱 I’m currently learning: **ECTF :sunglasses:**
-- :satisfied: I'm happy when (workwise): I finally find an offset, which offset dumpers were dumping wrong, **manually**
 - ⚡ Fun facts:   
                   1. I started playing league (league of legends) to get an idea of moba games with a goal of reverse-engineering them, but it kinda turned out to be league reverse-engineering my life for 3 years. Hahaha...thankfully, it's no longer ongoing.  
                   2. Teams default notification sound is scaaarrrryyy  
