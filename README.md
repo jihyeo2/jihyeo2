@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3>I love reverse engineering games and like to create web applications using Flask, React, or Vue.</h3>
 
 - 🔭 I’m currently working on: **Finding what I truly want to do in my life**
-- 🌱 I’m currently learning: **Anticheat :sunglasses:**
+- 🌱 I’m currently learning: **Anticheat & vibe coding :sunglasses:** 
 - ⚡ Fun facts:   
                   1. I started playing league (league of legends) to get an idea of moba games with a goal of reverse-engineering them, but it kinda turned out to be league reverse-engineering my life for 3 years. Hahaha...thankfully, it's no longer ongoing.  
                   2. Teams default notification sound is scaaarrrryyy  
